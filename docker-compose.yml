@@ -1,0 +1,13 @@
+version: "3"
+services:
+  app:
+    image: alakdam/hoxhunt_app
+    ports:
+      - 3000:3000
+    depends_on:
+      - backend
+
+  backend:
+    image: alakdam/hoxhunt_backend
+    ports:
+      - 8080:8080
