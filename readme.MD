@@ -12,7 +12,7 @@
 
 **Tachnology:**
 
-- **Backend:** Node js, Express server, Helmet, Morgan, Cors.
+- **Backend:** Node, Express server, Helmet, Morgan, Cors.
 - **Frontend:** React, Typescript, React-router-dom, Redux.
 - **Designing:** Styled-components
 
@@ -23,7 +23,7 @@
   - [x] Setup Express server
   - [x] Setup concurrently for the run frontend and backend together
   - [x] Filtered Data
-  - [x] create api end point
+  - [x] Create api end point
 
 - [x] **Setup Frontend**
   - [x] Create React-app
@@ -42,8 +42,8 @@
 
 - [x] **Deployment**
   - [x] Deployed in [AWS-EC2](http://3.82.229.173/)
-  - [x] create Docker file
-  - [x] Implement Docker compose file
+  - [x] Create Dockerfile and Docker-componse.yml
+  - [x] Build docker container
   - [x] Push it Docker hub
 
 **Install Dependencies**
